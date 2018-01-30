@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# PBM images
+*.pbm
